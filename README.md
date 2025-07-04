@@ -1,2 +1,1 @@
-# Alx-project
-A new alx project
+This is just a practice to learn about ssh keys
